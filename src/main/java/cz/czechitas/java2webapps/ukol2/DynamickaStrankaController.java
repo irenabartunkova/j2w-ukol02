@@ -21,7 +21,5 @@ public class DynamickaStrankaController {
         modelAndView.addObject("obrazek", nahodnyObrazek);
         return modelAndView;
 
-
-
     }
 }

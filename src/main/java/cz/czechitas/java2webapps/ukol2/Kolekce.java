@@ -9,4 +9,5 @@ public class Kolekce {
             "To replace programmers with robots, clients will have to accurately describe what they want. We're safe.",
             "I have a joke on programming but it only works on my computer."
             );
+
 }
