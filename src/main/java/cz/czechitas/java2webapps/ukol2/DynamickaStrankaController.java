@@ -31,6 +31,6 @@ public class DynamickaStrankaController {
         modelAndView.addObject("citaty", citaty.get(nahodnyObrazekCitat));
         return modelAndView;
 
-}
+    }
 
 }
