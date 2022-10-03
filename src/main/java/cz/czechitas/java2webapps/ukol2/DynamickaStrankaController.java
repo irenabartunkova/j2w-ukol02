@@ -28,7 +28,7 @@ public class DynamickaStrankaController {
 
         ModelAndView modelAndView = new ModelAndView("index");
         modelAndView.addObject("obrazek", nahodnyObrazekCitat);
-        modelAndView.addObject("citaty", citaty.get(nahodnyObrazekCitat));
+        modelAndView.addObject("citaty", citaty.get(nahodnyObrazekCitat - 1));
         return modelAndView;
 
     }

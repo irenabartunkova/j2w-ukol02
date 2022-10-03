@@ -10,8 +10,11 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
-<body style="background-image: url(https://source.unsplash.com/RFHFV7lVQBY/1600x900);">
-<body style="background-image: url(static/images/obrazek-${obrazek}.png)">
+
+<body style="background-image: url(/images/obrazek-${obrazek}.png)">
 </body>
-</body>
+<blockquote>
+    <span>${citaty}</span>
+</blockquote>
+
 </html>
