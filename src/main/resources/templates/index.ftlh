@@ -16,5 +16,4 @@
 <blockquote>
     <span>${citaty}</span>
 </blockquote>
-
 </html>
