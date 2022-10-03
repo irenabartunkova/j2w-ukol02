@@ -11,9 +11,7 @@
     <link rel="icon" type="image/png" href="/images/favicon.png">
 </head>
 <body style="background-image: url(https://source.unsplash.com/RFHFV7lVQBY/1600x900);">
-<div>
-    <img class="obrazek" src="/images/obrazek-${obrazek}.png" />
-</div>
-<blockquote><strong>Debugging</strong> /de·bugh·ing/ <em>verb</em><br/>The Classic Mystery Game where you are the detective, the victim, and the murderer.</blockquote>
+<body style="background-image: url(static/images/obrazek-${obrazek}.png)">
+</body>
 </body>
 </html>
